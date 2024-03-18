@@ -1,0 +1,4 @@
+Algorithm Name,Search Space Size,Elapsed Time
+MiniMax,10874004,193.40463280677795
+AlphaBetaPruning,440900,9.804023265838623
+AlphaBetaPruning,1495733,31.57002878189087
